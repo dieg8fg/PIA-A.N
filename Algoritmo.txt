@@ -1,0 +1,15 @@
+preguntar tamaño de matiz (3-5)
+-se generarán arrays dependiendo lo que pida el usuaro
+-usuario rellena la matriz
+
+se calcula el determinante
+-si det=0 hacer que cambie la matriz
+
+Si det!=0 pasa a un switch para calcular la inversa
+caso 1: matriz 3x3
+caso 2: matriz 4x4
+caso 3: matriz 5x5
+
+para la matriz inversa, guardar los det en una nueva matriz
+-dividir la nueva matriz entre el det
+-imprimir el resultado
